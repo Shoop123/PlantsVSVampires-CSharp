@@ -1,0 +1,33 @@
+E:\PlantVSVampires\Plant VS. Vampires\bin\Debug\Plant_VS.Vampires.exe.config
+E:\PlantVSVampires\Plant VS. Vampires\bin\Debug\Plant_VS.Vampires.exe
+E:\PlantVSVampires\Plant VS. Vampires\bin\Debug\Plant_VS.Vampires.pdb
+E:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Interop.WMPLib.dll
+E:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant VS. Vampires.csproj.ResolveComReference.cache
+E:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant_VS.Vampires.Form1.resources
+E:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant_VS.Vampires.Properties.Resources.resources
+E:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant VS. Vampires.csproj.GenerateResource.Cache
+E:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant_VS.Vampires.exe
+E:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant_VS.Vampires.pdb
+E:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant VS. Vampires.csprojResolveAssemblyReference.cache
+D:\PlantVSVampires\Plant VS. Vampires\bin\Debug\Plant_VS.Vampires.exe.config
+D:\PlantVSVampires\Plant VS. Vampires\bin\Debug\Plant_VS.Vampires.exe
+D:\PlantVSVampires\Plant VS. Vampires\bin\Debug\Plant_VS.Vampires.pdb
+D:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Interop.WMPLib.dll
+D:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant VS. Vampires.csproj.ResolveComReference.cache
+D:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant_VS.Vampires.Form1.resources
+D:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant_VS.Vampires.Properties.Resources.resources
+D:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant VS. Vampires.csproj.GenerateResource.Cache
+D:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant_VS.Vampires.exe
+D:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant_VS.Vampires.pdb
+D:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant VS. Vampires.csprojResolveAssemblyReference.cache
+F:\PlantVSVampires\Plant VS. Vampires\bin\Debug\Plant_VS.Vampires.exe.config
+F:\PlantVSVampires\Plant VS. Vampires\bin\Debug\Plant_VS.Vampires.exe
+F:\PlantVSVampires\Plant VS. Vampires\bin\Debug\Plant_VS.Vampires.pdb
+F:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant VS. Vampires.csprojResolveAssemblyReference.cache
+F:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Interop.WMPLib.dll
+F:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant VS. Vampires.csproj.ResolveComReference.cache
+F:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant_VS.Vampires.Form1.resources
+F:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant_VS.Vampires.Properties.Resources.resources
+F:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant VS. Vampires.csproj.GenerateResource.Cache
+F:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant_VS.Vampires.exe
+F:\PlantVSVampires\Plant VS. Vampires\obj\Debug\Plant_VS.Vampires.pdb
